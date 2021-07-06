@@ -286,4 +286,6 @@ footer {
     .main-img, .alltime-img {
         height: 170px;
     }
+    .elem {
+        width: 100%;
 }
