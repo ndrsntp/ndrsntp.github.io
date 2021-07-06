@@ -268,3 +268,8 @@ footer {
 .megafon {
     background-image: url("../img/megafon.jpg");
 }
+@media (max-width:1012px) {
+    .schedule-card {
+        max-width: 48%;
+    }
+}
