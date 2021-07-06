@@ -273,3 +273,8 @@ footer {
         width: 48%;
     }
 }
+@media (max-width:549px) {
+    .schedule-card {
+        width: 97%;
+    }
+}
