@@ -303,4 +303,7 @@ footer {
     #lastNews {
         height: 500px;
     }
+    .scheduleCont h1{
+        text-align: center;
+    }
 }
