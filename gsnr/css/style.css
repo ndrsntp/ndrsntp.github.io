@@ -281,7 +281,7 @@ footer {
 @media (max-width:802px) {
     .cont {
         flex-direction: column;
-        height: 400px;
+        height: 350px;
     }
     .main-img, .alltime-img {
         height: 170px;
