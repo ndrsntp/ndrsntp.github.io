@@ -257,6 +257,7 @@ footer {
 .news-img {
     width: 250px;
     margin-bottom: 10px;
+    border-radius: 5px;
 }
 .icon {
     font-size: 30px;
