@@ -293,3 +293,11 @@ footer {
         flex-direction: column-reverse;
     }
 }
+@media (max-width:524px) {
+    .cont {
+        height: 400px;
+    }
+    .main-img, .alltime-img {
+        height: 3100px;
+    }
+}
