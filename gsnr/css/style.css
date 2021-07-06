@@ -278,3 +278,8 @@ footer {
         width: 97%;
     }
 }
+@media (max-width:802px) {
+    .cont {
+        flex-direction: column;
+    }
+}
