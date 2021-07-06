@@ -270,6 +270,6 @@ footer {
 }
 @media (max-width:1012px) {
     .schedule-card {
-        max-width: 48%;
+        width: 48%;
     }
 }
