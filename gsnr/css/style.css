@@ -320,4 +320,7 @@ footer {
     #translation {
         width: 95%;
     }
+    #translation iframe {
+        width: 95%;
+    }
 }
