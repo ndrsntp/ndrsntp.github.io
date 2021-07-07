@@ -134,6 +134,7 @@ main {
     border-bottom: 2px dotted blue;
     margin: 0;
     padding: 10px 5px;
+    text-align: center;
 }
 .newsCont p:hover {
     color: #666666;
