@@ -312,3 +312,7 @@ footer {
 .news-main h2 {
     text-align: center;
 }
+#translation {
+    text-align: center;
+    margin-top: 18px;
+}
