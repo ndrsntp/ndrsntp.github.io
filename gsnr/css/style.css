@@ -330,3 +330,6 @@ footer {
         display: none;
     }
 }
+.article iframe {
+    text-align: center;
+}
