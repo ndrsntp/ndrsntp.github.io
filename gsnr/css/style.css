@@ -330,8 +330,11 @@ footer {
     body header h1 {
         display: none;
     }
+    .article iframe {
+        text-align: center;
+        width: 100%;
+    }
 }
 .article iframe {
     text-align: center;
-    width: 100%;
 }
